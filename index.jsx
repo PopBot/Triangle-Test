@@ -65,5 +65,5 @@ const styles = StyleSheet.create({
 // You must register the main component
 // with the same name as the project
 AppRegistry.registerComponent(
-  'my-rn-app', () => MyApp
+  'Triangle Test', () => MyApp
 );
